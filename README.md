@@ -4,6 +4,8 @@ Un proyecto simple para demostrar Git u Github
 
 ## Intro
 
+Ejemplo que demuestra diferentes partes de git y varios comandos
+
 This repository is for showing how Git and GitHub work
 
 ## Purpose
